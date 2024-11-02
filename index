@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hidroponia - Sustentavel</title>
+<link rel="stylesheet" href="style.css"
+</head>
+
+<body>
+<header>
+<h1>Hidroponia Sustentavel</h1>
+<p>Saiba mais sobre o cultivo de plantas sem precisar de solo!
+</header>
+
+<section
+<h2>O que é Hidroponia?</h2>
+<p>A hidroponia é um metdo de cultivp de plantas usando solucoes nutritivas em vez do solo!</p>
+</section>
+
+<section>
+<h2>Vantagens de usar a Hidroponia</h>
+<ul>
+<li>Economiza agua
+<li>Controle nutritivo</li
+<li>Menos uso de pesticidas</li>
+<li>Produção o ano todo
+</ul>
+</section
+
+<section>
+<h2>Como Iniciar</h3>
+<p>Para começar com hidroponia, vocé precisará de um sistema, solução nutrivita e espaço certo.</p>
+</section>
+
+<footer>
+<p>&copy; 2024 - Hidroponia Sustentavel. Direitos reservados</p>
+</footer>
+</body>
+</html>
+
 
